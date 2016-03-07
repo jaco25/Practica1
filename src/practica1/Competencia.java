@@ -7,7 +7,6 @@ public class Competencia {
 
     private Scanner teclado;
     
-    
     String Nombre,Rama;
     int Fecha, Documento;
     char cat;
